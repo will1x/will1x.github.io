@@ -1,0 +1,28 @@
+body {
+	font-family: Tahoma 
+}
+.container {
+	width: 1200px;
+}
+.header-title {
+font-size: 24px;
+font-weight: 700;
+text-transform: uppercase;
+text-align: center;
+margin-bottom: 85px;
+margin-top: 70px;
+}
+.header-img {
+	min-height: 70px;
+	margin-bottom: 20px;
+}
+.header-text {
+	font-size: 16px;
+font-weight: 700;
+}
+.text {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+

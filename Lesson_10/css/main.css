@@ -1,0 +1,9 @@
+.header {
+  padding-top: 20px;
+}
+.header__p {
+  color: yellow;
+}
+.header__text {
+  color: #cccc00;
+}
