@@ -37,11 +37,12 @@ body {
   font-weight: 700;
   margin-bottom: 5px;
   text-align: center;
+  margin-top: 50px;
 }
 .item-subtitle {
   font-size: 17px;
   font-weight: 400;
-  margin-bottom: 8px;
+  margin-bottom: 25px;
   text-align: center;
 }
 .button {
