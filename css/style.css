@@ -7,6 +7,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
+  padding: 0 5px;
 }
 .section {
   padding: 60px 0px;
@@ -26,36 +27,34 @@ body {
 .container {
   max-width: 1200px;
   margin: auto;
+  text-align: center;
 }
 .items-wrap {
   margin: 0 auto;
 }
-.item {
-  vertical-align: middle;
-  margin-right: 48px;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  margin-bottom: 15px;
-  text-align: center;
-}
 .item-title {
   font-size: 20px;
   font-weight: 700;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
+  text-align: center;
 }
 .item-subtitle {
   font-size: 17px;
   font-weight: 400;
   margin-bottom: 8px;
+  text-align: center;
 }
 .button {
   padding: 17px 30px;
   border: none;
   background-color: #F1F2F2;
   border-radius: 5px;
-}
-a {
+  margin-bottom: 25px;
+  text-align: center;
   color: black;
   text-decoration: none;
   font-size: 20px;
 }
+
+
+
